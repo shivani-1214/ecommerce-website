@@ -1,3 +1,3 @@
 # ecommerce-website/
-https://github.com/shivani-1214/ecommerce-website/edit/main/README.md
+https://shivani-1214.github.io/ecommerce-website/ tap here for quick access.
 
